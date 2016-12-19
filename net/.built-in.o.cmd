@@ -1,0 +1,1 @@
+cmd_net/built-in.o :=  /home/kevin/Toolchain/arm_linux_4.8/bin/arm-linux-ld.bfd     -r -o net/built-in.o net/checksum.o net/arp.o net/bootp.o net/eth_legacy.o net/eth_common.o net/net.o net/nfs.o net/tftp.o 

@@ -1,0 +1,1 @@
+cmd_arch/arm/cpu/arm926ejs/nuc970/built-in.o :=  /home/kevin/Toolchain/arm_linux_4.8/bin/arm-linux-ld.bfd     -r -o arch/arm/cpu/arm926ejs/nuc970/built-in.o arch/arm/cpu/arm926ejs/nuc970/cpu.o arch/arm/cpu/arm926ejs/nuc970/timer.o arch/arm/cpu/arm926ejs/nuc970/reset.o arch/arm/cpu/arm926ejs/nuc970/relocate.o 

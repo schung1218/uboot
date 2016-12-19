@@ -1,0 +1,10 @@
+nuc970_mmc.c:522:12:_nuc970_emmc_init	16	static
+nuc970_mmc.c:462:6:nuc970_sd_set_ios	16	static
+nuc970_mmc.c:475:6:nuc970_emmc_set_ios	16	static
+nuc970_mmc.c:489:12:_nuc970_sd_init	8	static
+nuc970_mmc.c:33:5:nuc970_sd_check_ready_busy	0	static
+nuc970_mmc.c:69:5:nuc970_sd_send_cmd	48	static
+nuc970_mmc.c:49:5:nuc970_emmc_check_ready_busy	0	static
+nuc970_mmc.c:219:5:nuc970_emmc_send_cmd	40	static
+nuc970_mmc.c:543:5:board_mmc_getcd	0	static
+nuc970_mmc.c:604:5:nuc970_mmc_init	8	static

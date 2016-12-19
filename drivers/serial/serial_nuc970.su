@@ -1,0 +1,8 @@
+serial_nuc970.c:76:5:nuc970_serial_init	0	static
+serial_nuc970.c:156:5:nuc970_serial_getc	0	static
+serial_nuc970.c:168:5:nuc970_serial_tstc	0	static
+serial_nuc970.c:173:6:nuc970_serial_setbrg	0	static
+serial_nuc970.c:87:6:nuc970_serial_putc	0	static
+serial_nuc970.c:98:6:nuc970_serial_puts	8	static
+serial_nuc970.c:194:6:nuc970_serial_initialize	0	static
+serial_nuc970.c:199:30:default_serial_console	0	static

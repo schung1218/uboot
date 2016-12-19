@@ -1,0 +1,1 @@
+cmd_drivers/mmc/built-in.o :=  /home/kevin/Toolchain/arm_linux_4.8/bin/arm-linux-ld.bfd     -r -o drivers/mmc/built-in.o drivers/mmc/mmc_legacy.o drivers/mmc/mmc.o drivers/mmc/mmc_write.o drivers/mmc/nuc970_mmc.o 

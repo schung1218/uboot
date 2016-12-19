@@ -1,0 +1,1 @@
+cmd_examples/standalone/hello_world := /home/kevin/Toolchain/arm_linux_4.8/bin/arm-linux-ld.bfd   -g -Ttext 0xc100000 -o examples/standalone/hello_world -e hello_world examples/standalone/hello_world.o examples/standalone/libstubs.o arch/arm/lib/lib.a

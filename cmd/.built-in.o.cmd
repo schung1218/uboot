@@ -1,0 +1,1 @@
+cmd_cmd/built-in.o :=  /home/kevin/Toolchain/arm_linux_4.8/bin/arm-linux-ld.bfd     -r -o cmd/built-in.o cmd/boot.o cmd/bootm.o cmd/help.o cmd/version.o cmd/source.o cmd/bdinfo.o cmd/console.o cmd/echo.o cmd/elf.o cmd/exit.o cmd/fat.o cmd/itest.o cmd/load.o cmd/mem.o cmd/misc.o cmd/mmc.o cmd/net.o cmd/pcmcia.o cmd/test.o cmd/ximg.o cmd/nvedit.o 

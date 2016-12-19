@@ -1,0 +1,9 @@
+nuc970.c:75:6:dram_init_banksize	0	static
+nuc970.c:84:5:dram_init	0	static
+nuc970.c:92:5:board_early_init_f	0	static
+nuc970.c:140:5:board_mmc_init	16	static
+nuc970.c:205:6:enable_caches	0	static
+nuc970.c:218:5:board_init	0	static
+nuc970.c:226:5:board_late_init	0	static
+nuc970.c:233:5:checkboard	8	static
+nuc970.c:241:6:lowlevel_init	0	static

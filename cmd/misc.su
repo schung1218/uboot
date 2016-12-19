@@ -1,0 +1,2 @@
+misc.c:15:12:do_sleep	24	static
+misc.c:62:12:do_timer	24	static
